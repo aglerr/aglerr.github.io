@@ -1253,6 +1253,11 @@
     position: relative;
     top: 1px; }
 
+.btn-off {
+  background-color: #9A9A9A;
+  color: #FFFFFF;
+}    
+
 .btn-primary {
   background-color: #004085;
   color: #FFFFFF; }
